@@ -5,10 +5,11 @@
 ```bash
 git clone https://github.com/your-username/crop-yield-prediction.git
 cd crop-yield-prediction
+```
 
-2. Install Dependencies
+### 2. Install Dependencies
 pip install -r requirements.txt
-
+```
 3. Launch the Notebook
 jupyter notebook notebooks/Crop_Yield_Prediction.ipynb
 
